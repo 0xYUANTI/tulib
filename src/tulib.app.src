@@ -1,0 +1,5 @@
+{application, tulib, [ {description,  "TUlib"}
+                     , {vsn,          git}
+                     , {registered,   []}
+                     , {applications, [kernel, stdlib]}
+                     ]}.
