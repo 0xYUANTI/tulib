@@ -13,11 +13,9 @@ BETA  -- not used in production
 
 Written by Jakob Sievers, with contributions by
 
-  Bjorn Jensen-Urstad (/b3rnie)
-
-  Daniel K. Lee (/dklee)
-
-  Thomas Jarvstrand (/tjarvstrand)
+* Bjorn Jensen-Urstad (/b3rnie)
+* Daniel K. Lee (/dklee)
+* Thomas Jarvstrand (/tjarvstrand)
 
 ## Installation
 jakob@drunken.primat.es:~/git/klarna/tulib$ gmake
